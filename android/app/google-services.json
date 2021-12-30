@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "91157114656",
+    "project_id": "emitrans-d96e2",
+    "storage_bucket": "emitrans-d96e2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:91157114656:android:acb7cfecd716afdd573145",
+        "android_client_info": {
+          "package_name": "com.emitransmobile"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "91157114656-njitkv955l1p3mggugbg74gm9uqq2cuu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBwx11SnjMCFOLASJsNaoZsRA_KdOfHJ5o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "91157114656-njitkv955l1p3mggugbg74gm9uqq2cuu.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
